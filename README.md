@@ -1,3 +1,4 @@
 
-Click to visit website  https://github.com/DhanaLakshmi-9998/video-player-project.git
+Click to visit website  https://dhanalakshmi-9998.github.io/video-player-project/
+
 
